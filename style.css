@@ -1,0 +1,36 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 10px;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: rgb(26, 3, 3); 
+}
+
+#box2{
+    background-color:#C4D7B2;
+}
+#box3{
+    background-color:#E1ECC8;
+}
+#box4{
+    background-color:#F7FFE5;
+}
+#box5{
+    background-color:#CBFFA9;
+}
+#box1{
+    background-color:#A0C49D;
+}
+.footer{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
